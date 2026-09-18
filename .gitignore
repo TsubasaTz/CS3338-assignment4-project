@@ -1,0 +1,7 @@
+*.log
+/docs/User_Manual/
+*-*.txt
+/src/styles.css
+/docs/Software_Requirement_Specification/*_v[1-2].docx
+/docs/Software_Design_Document/*_v[1-2].docx
+/**/README.md
